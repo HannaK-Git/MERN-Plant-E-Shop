@@ -1,0 +1,23 @@
+.navbar{
+  background-color: #157759;
+}
+
+.menuBtn{
+  border: solid 2px #157759;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  color: #157759;
+  cursor: pointer;
+}
+
+.menuBtn:hover{
+  background-color: #157759;
+  color: white;
+}
+
+.cardStyle{
+  width: 150;
+   cursor: pointer;
+   padding: 1rem;
+}
+
