@@ -35,7 +35,7 @@ Login details (for admin preview): Username: user@user.com | Password: 1234
   - JSON Web Tokens (JWT)
   - Bcrypt.js
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository:**
 
